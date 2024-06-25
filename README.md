@@ -9,5 +9,5 @@ This Excel can,
 - Analysis the result in chart, and calculate overall total for the year.
 - Analysis if user overspent ot underspent for each categories.
 
-For more instruction, please look into first page of the excel spreadsheet.
+For more instruction, please look into first page of the excel spreadsheet.<br />
 <b>Due to complexity, this excel file is based for year of 2023</b>
