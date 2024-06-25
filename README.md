@@ -7,4 +7,4 @@ This Excel can,
 - Analysis the result in chart, and calculate overall total for the year.
 - Analysis if user overspent ot underspent for each categories.
 
-* Due to complexity, this excel file is based for year of 2023.
+<b>Due to complexity, this excel file is based for year of 2023</b>
