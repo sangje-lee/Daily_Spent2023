@@ -11,3 +11,6 @@ This Excel can,
 
 For more instruction, please look into first page of the excel spreadsheet.<br />
 <b>Due to complexity, this excel file is based for year of 2023</b>
+
+Alternatives link:
+https://docs.google.com/spreadsheets/d/14OVacxd8b2FnpzvB-patFSuI3Jmf6MCB/edit?usp=drive_link&ouid=108305503433375253974&rtpof=true&sd=true
